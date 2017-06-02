@@ -1,6 +1,6 @@
 ## Getting Into Kubernetes RBAC For User Authorization
 
-** Note -- this uses a method contrary to the kubernetes docs, namesly using a serviceccount for a user, but it works as I want it to so... **
+**Note -- this uses a method contrary to the kubernetes docs, namely using a serviceccount for a user, but it gets me what I want -- a kubectl user with limited access...**
 
 
 This assumes:
